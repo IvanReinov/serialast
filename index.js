@@ -22,7 +22,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена5.png',
+        src: 'сцена5.jpg',
         nameImg: '2',
     },
     {
@@ -38,7 +38,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена9.png',
+        src: 'сцена9.jpg',
         nameImg: '2',
     },
     {
@@ -54,7 +54,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена13.png',
+        src: 'сцена13.jpg',
         nameImg: '2',
     },
     {
@@ -70,7 +70,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена17.png',
+        src: 'сцена17.jpg',
         nameImg: '2',
     },
     {
@@ -86,7 +86,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена21.png',
+        src: 'сцена21.jpg',
         nameImg: '2',
     },
     {
@@ -102,7 +102,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена25.png',
+        src: 'сцена25.jpg',
         nameImg: '2',
     },
     {
@@ -118,7 +118,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена29.png',
+        src: 'сцена29.jpg',
         nameImg: '2',
     },
     {
@@ -134,7 +134,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена33.png',
+        src: 'сцена33.jpg',
         nameImg: '2',
     },
     {
@@ -150,7 +150,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена37.png',
+        src: 'сцена37.jpg',
         nameImg: '2',
     },
     {
@@ -166,7 +166,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена41.png',
+        src: 'сцена41.jpg',
         nameImg: '2',
     },
     {
@@ -182,7 +182,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена45.png',
+        src: 'сцена45.jpg',
         nameImg: '2',
     },
     {
@@ -198,7 +198,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена49.png',
+        src: 'сцена49.jpg',
         nameImg: '2',
     },
     {
@@ -214,7 +214,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена53.png',
+        src: 'сцена53.jpg',
         nameImg: '2',
     },
     {
@@ -230,7 +230,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена57.png',
+        src: 'сцена57.jpg',
         nameImg: '2',
     },
     {
@@ -246,7 +246,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена61.png',
+        src: 'сцена61.jpg',
         nameImg: '2',
     },
     {
@@ -262,7 +262,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена65.png',
+        src: 'сцена65.jpg',
         nameImg: '2',
     },
     {
@@ -278,7 +278,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена69.png',
+        src: 'сцена69.jpg',
         nameImg: '2',
     },
     {
@@ -294,7 +294,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена73.png',
+        src: 'сцена73.jpg',
         nameImg: '2',
     },
     {
@@ -310,7 +310,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена77.png',
+        src: 'сцена77.jpg',
         nameImg: '2',
     },
     {
@@ -326,7 +326,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена81.png',
+        src: 'сцена81.jpg',
         nameImg: '2',
     },
     {
@@ -342,7 +342,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена85.png',
+        src: 'сцена85.jpg',
         nameImg: '2',
     },
     {
@@ -358,7 +358,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена89.png',
+        src: 'сцена89.jpg',
         nameImg: '2',
     },
     {
@@ -374,7 +374,7 @@ const listImages = [
         nameImg: '2',
     },
     {
-        src: 'сцена93.png',
+        src: 'сцена93.jpg',
         nameImg: '2',
     },
     {
